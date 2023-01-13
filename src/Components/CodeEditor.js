@@ -57,6 +57,5 @@ CodeEditor.propTypes = {
 CodeEditor.defaultProps = {
   value: "",
   onChange: () => null
-};
 
 
