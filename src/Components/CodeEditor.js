@@ -59,4 +59,4 @@ CodeEditor.defaultProps = {
   onChange: () => null
 };
 
-export default CodeEditor;
+
