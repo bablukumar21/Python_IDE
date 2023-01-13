@@ -58,4 +58,5 @@ CodeEditor.defaultProps = {
   value: "",
   onChange: () => null
 
+};
 
